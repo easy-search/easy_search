@@ -1,24 +1,33 @@
-# README
+# <easy_search>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+<いろんな人が好きなように情報を登録して好きなように見直したり、
+ほかの人が公開している情報を見たりするアプリ>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<今まで職場でマニュアルとか情報を調べるときに、
+調べづらく自分で調べやすいデータベースを作りたかったため>
 
-* Ruby version
+### ターゲットユーザー
+<自分で情報を登録して必要になったときに見直したり、
+ほかの人が登録している公開情報を登録の際にタグなど登録できるようにしていろんな方向から
+調べやすくして見つけたい情報をなるべく簡単に調べたい人向け>
 
-* System dependencies
+### 主な利用シーン
+<家事などの情報や遊びなどに使える情報、また専門的なことを登録して見直したりできる。
+　他の人が登録している公開情報をみたりできる。>
 
-* Configuration
+## 設計書
+<>
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
